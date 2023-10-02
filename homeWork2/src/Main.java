@@ -6,6 +6,7 @@ public class Main {
 
             String textt = "Успіхів на курсі";
             System.out.println(textt);
+            System.out.println(textt);
         }
 
         Scanner board = new Scanner(System.in);
