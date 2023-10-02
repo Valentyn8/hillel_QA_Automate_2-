@@ -6,7 +6,7 @@ public class Main {
 
             String textt = "Успіхів на курсі";
             System.out.println(textt);
-            String textt = "Успіхів на курсі";
+
             System.out.println(textt);
         }
 
